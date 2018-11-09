@@ -1,0 +1,303 @@
+(ROOT (FRAG (NP (NNP Super)) (@FRAG (ADJP (NP (NP (JJ simple) (NN place)) (ADVP (CC but))) (JJ amazing)) (@FRAG (ADVP (RB nonetheless)) (. .)))))
+(ROOT (S (NP (PRP It)) (@S (VP (VBZ 's) (VP (@VP (VBN been) (PP (IN around) (NP (SBAR (IN since) (S (NP (DT the) (@NP (@NP (NP (CD 30) (POS 's)) (CC and)) (NP (PRP they)))) (@S (ADVP (RB still)) (VP (VBP serve) (NP (NP (DT the) (@NP (JJ same) (NN thing))) (SBAR (S (NP (PRP they)) (VP (VBD started) (PP (IN with)))))))))) (@NP (: :) (NP (DT a) (@NP (NN bologna) (@NP (CC and) (@NP (NN salami) (NN sandwich))))))))) (PP (IN with) (NP (NN mustard))))) (. .))))
+
+
+(ROOT (S (NP (NN Staff)) (@S (VP (VBD was) (ADJP (RB very) (@ADJP (@ADJP (JJ helpful) (CC and)) (JJ friendly)))) (. .))))
+
+
+(ROOT (FRAG (NP (NP (JJ Small) (@NP (JJ unassuming) (NN place))) (SBAR (WHNP (WDT that)) (S (VP (VBZ changes) (S (NP (PRP$ their) (NN menu)) (ADVP (DT every) (@ADVP (RB so) (RB often)))))))) (. .)))
+(ROOT (NP (@NP (NP (JJ Cool) (@NP (@NP (NN decor) (CC and)) (NN vibe))) (PP (IN inside) (NP (PRP$ their) (@NP (CD 30) (@NP (NN seat) (NN restaurant)))))) (. .)))
+(ROOT (S (VP (VB Call) (PP (IN for) (NP (DT a) (NN reservation)))) (. .)))
+
+
+(ROOT (S (NP (PRP We)) (@S (VP (@VP (VBD had) (NP (PRP$ their) (@NP (NN beef) (@NP (NN tartar) (@NP (CC and) (@NP (NN pork) (NN belly))))))) (S (VP (TO to) (VP (@VP (VP (VB start)) (CC and)) (VP (NP (DT a) (@NP (NN salmon) (@NP (NN dish) (@NP (CC and) (@NP (NN lamb) (NN meal)))))) (PP (IN for) (NP (NNS mains)))))))) (. .))))
+(ROOT (S (NP (NN Everything)) (@S (VP (VBD was) (ADJP (JJ incredible))) (. !))))
+(ROOT (S (@S (@S (@S (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN on) (@PP (IN at) (NP (NP (NN length)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (PDT all) (@NP (DT the) (@NP (VBN listed) (NNS ingredients)))) (@S (ADVP (RB really)) (VP (VBP make) (S (NP (PRP$ their) (NNS dishes)) (ADJP (JJ amazing)))))))))))))) (CC but)) (ADVP (RB honestly))) (S (NP (PRP you)) (@S (ADVP (RB just)) (VP (VBP need) (S (VP (TO to) (VP (VB go)))))))) (. .)))
+
+
+(ROOT (S (@S (@S (S (NP (DT A) (NN bit)) (@S (ADVP (JJ outside) (PP (IN of) (NP (NP (NN downtown) (NN montreal)) (ADVP (CC but))))) (VP (VB take) (ADVP (NP (DT the) (NN metro)) (IN out))))) (CC and)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (NP (DT a) (@NP (ADJP (CD 10) (NN minute)) (NN walk))) (PP (IN from) (NP (DT the) (NN station))))))))) (. .)))
+
+
+(ROOT (S (NP (NNP Lester) (POS 's)) (@S (VP (@VP (VP (VBZ is) (ADJP (JJ located) (PP (IN in) (NP (DT a) (@NP (JJ beautiful) (NN neighborhood)))))) (CC and)) (VP (VBZ has) (VP (@VP (VBN been) (ADVP (RB there))) (PP (IN since) (NP (CD 1951)))))) (. .))))
+(ROOT (S (NP (PRP They)) (@S (VP (VBP are) (VP (VBN known) (PP (IN for) (NP (NP (JJ smoked) (NN meat)) (SBAR (WHNP (WDT which)) (S (NP (NP (RBS most)) (SBAR (S (NP (NNS deli) (POS 's)) (VP (VBP have) (VP (PP (CC but) (NP (PRP$ their) (@NP (NN brisket) (NN sandwich))))))))) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP come) (S (VP (TO to) (VP (VB montreal) (PP (IN for))))))))))))))) (. .))))
+(ROOT (S (NP (PRP They)) (@S (VP (VBP 've) (VP (@VP (VBN got) (PP (IN about) (ADVP (NP (CD 12) (NNS seats)) (IN outside)))) (S (VP (TO to) (VP (@VP (VB go) (PRT (RP along))) (PP (IN with) (NP (DT the) (NN inside)))))))) (. .))))
+
+
+(ROOT (S (@S (@S (S (NP (DT The) (@NP (JJ smoked) (NN meat))) (VP (@VP (VBZ is) (ADVP (ADVP (RB up) (RB there)) (PP (IN in) (NP (@NP (NN quality) (CC and)) (NN taste))))) (PP (IN with) (NP (NNP Schwartz) (POS 's))))) (CC and)) (S (NP (PRP you)) (VP (MD 'll) (VP (@VP (@VP (VB find) (NP (JJR less) (NNS tourists))) (PP (IN at) (NP (NNP Lester) (POS 's)))) (ADVP (RB as) (RB well)))))) (. .)))
+
+
+(ROOT (NP (@NP (NP (NN Love)) (VP (VBG coming) (ADVP (RB here)))) (. .)))
+(ROOT (SINV (S (INTJ (UH Yes)) (@S (NP (DT the) (NN place)) (@S (ADVP (RB always)) (VP (VBZ needs) (SBAR (@SBAR (SBAR (S (NP (DT the) (NN floor)) (VP (VBD swept)))) (CC but)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (@VP (@VP (VBP give) (PRT (RP out))) (NP (NP (NNS peanuts)) (PP (IN in) (NP (DT the) (NN shell))))) (ADVP (WRB how)))))))))) (@SINV (@SINV (@SINV (VP (MD wo) (RB n't)) (NP (PRP it))) (S (VP (RB always) (@VP (VB be) (ADJP (NP (DT a) (NN bit)) (JJ dirty)))))) (. .))))
+
+
+(ROOT (S (NP (DT The) (NN food)) (@S (VP (VBZ speaks) (PP (IN for) (NP (@NP (NP (PRP itself)) (, ,)) (ADJP (RB so) (JJ good))))) (. .))))
+(ROOT (S (@S (@S (S (NP (NNS Burgers)) (VP (VBP are) (VP (VBN made) (S (VP (TO to) (VP (VB order))))))) (CC and)) (S (NP (DT the) (NN meat)) (VP (VBZ is) (VP (VBN put) (PP (IN on) (NP (NP (DT the) (NN grill)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VB order) (NP (PRP$ your) (NN sandwich))))))))))) (. .)))
+(ROOT (S (S (VP (VBG Getting) (SBAR (S (NP (DT the) (@NP (JJ small) (NN burger))) (@S (ADVP (RB just)) (VP (VBZ means) (NP (CD 1) (NN patty)))))))) (@S (, ,) (@S (NP (DT the) (JJ regular)) (@S (VP (VBZ is) (NP (NP (DT a) (@NP (CD 2) (@NP (NN patty) (NN burger)))) (SBAR (WHNP (WDT which)) (S (VP (@VP (VBZ is) (ADVP (RB twice))) (NP (DT the) (NN deliciousness))))))) (. .))))))
+
+
+(ROOT (S (S (VP (VBG Getting) (SBAR (S (NP (DT the) (@NP (NNP Cajun) (NNS fries))) (VP (VBZ adds) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (@NP (NP (NP (NN spice)) (PP (TO to) (NP (PRP them)))) (CC and)) (NP (WDT whatever) (NX (NN size))))))))))) (@S (NP (PRP you)) (@S (VP (VBP order) (SBAR (S (NP (PRP they)) (@S (ADVP (RB always)) (VP (@VP (VBP throw) (NP (NP (QP (RBR more)) (NNS fries)) (PRN (-LRB- -LRB-) (@PRN (NP (NP (DT a) (NN lot)) (PP (RBR more) (NP (NNS fries)))) (-RRB- -RRB-))))) (PP (IN into) (NP (DT the) (NN bag)))))))) (. .)))))
+
+
+(ROOT (S (@S (@S (S (VP (VBD Had) (NP (PRP$ their) (@NP (NN chocolate) (@NP (NN almond) (NN croissant)))))) (CC and)) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ amazing))))) (. !)))
+(ROOT (NP (@NP (NP (NP (ADJP (RB So) (@ADJP (@ADJP (JJ light) (CC and)) (JJ buttery)))) (PP (CC and) (NP (UH oh)))) (NP (NP (PRP$ my)) (RRC (ADJP (WHADVP (WRB how)) (JJ chocolaty))))) (. .)))
+
+
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG looking) (PP (IN for) (NP (DT a) (@NP (JJ light) (NN breakfast)))))))) (@S (ADVP (RB then)) (@S (VP (@VP (VBP head) (PRT (RP out))) (ADVP (RB here))) (. .)))))
+(ROOT (FRAG (NP (NP (NNP Perfect) (NN spot)) (PP (IN for) (NP (DT a) (NN coffee\/latté)))) (PP (IN before) (S (VP (@VP (VBG heading) (PRT (RP out))) (PP (TO to) (NP (DT the) (@NP (JJ old) (NN port)))))))))
+
+
+(ROOT (S (NP (NNP Cycle) (@NP (NNP Pub) (@NP (NNP Las) (NNP Vegas)))) (@S (VP (VBD was) (NP (DT a) (NN blast))) (. !))))
+(ROOT (S (VP (@VP (VP (VBD Got) (NP (DT a) (NN groupon))) (CC and)) (VP (@VP (@VP (VBD rented) (NP (DT the) (NN bike))) (PP (IN for) (NP (NP (CD 11)) (PP (IN of) (NP (PRP us)))))) (PP (IN for) (NP (DT an) (@NP (NN afternoon) (NN tour)))))) (. .)))
+(ROOT (S (NP (DT Each) (NN bar)) (@S (VP (@VP (VBD was) (ADVP (RBR more))) (NP (NP (NN fun)) (PP (IN than) (NP (DT the) (JJ last))))) (. .))))
+(ROOT (S (NP (NN Downtown) (@NP (NNP Las) (NNP Vegas))) (@S (VP (VBZ has) (VP (VBN changed) (ADVP (@ADVP (ADVP (RB so) (JJ much)) (CC and)) (PP (IN for) (NP (DT the) (JJR better)))))) (. .))))
+(ROOT (S (NP (PRP We)) (@S (VP (VBD had) (NP (@NP (NP (DT a) (@NP (JJ wide) (@NP (NN age) (NN range)))) (PP (IN in) (NP (NP (DT this) (NN group)) (PP (IN from) (NP (NP (JJ early) (@NP (CD 20) (POS 's))) (PP (TO to) (NP (@NP (NP (JJ mid) (@NP (CD 50) (POS 's))) (CC and)) (NP (NN everyone))))))))) (SBAR (S (VP (VBD had) (NP (ADJP (RB so) (JJ much)) (NN fun))))))) (. !))))
+(ROOT (S (NP (PRP$ Our) (@NP (NN driver) (NNP Tony))) (@S (VP (VBD was) (NP (ADJP (@ADJP (@ADJP (@ADJP (ADJP (JJ knowledgable)) (, ,)) (ADJP (JJ friendly))) (CC and)) (ADJP (RB just) (JJ plain))) (NN fun))) (. !))))
+(ROOT (S (VP (MD Would) (VP (@VP (VB recommend) (NP (DT this))) (PP (TO to) (NP (NP (NN anyone)) (VP (VBG looking) (S (VP (TO to) (VP (@VP (@VP (VB do) (NP (NN something) (JJ different))) (ADVP (RB away))) (PP (IN from) (NP (DT the) (NN strip))))))))))) (. .)))
+(ROOT (S (NP (PRP You)) (@S (VP (@VP (MD wo) (RB n't)) (VP (VB be) (ADJP (JJ disappointed)))) (. !))))
+
+
+(ROOT (SBARQ (WHNP (WP Who)) (@SBARQ (SQ (VP (MD would) (VP (@VP (VB have) (NP (NN guess))) (SBAR (IN that) (S (NP (PRP you)) (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (@VP (VB get) (NP (ADJP (RB fairly) (JJ decent)) (@NP (JJ Vietnamese) (NN restaurant)))) (PP (IN in) (NP (NNP East) (NNP York)))))))))))))) (. ?))))
+
+
+(ROOT (NP (@NP (@NP (NP (RB Not) (RB quite)) (NP (NP (DT the) (@NP (ADJP (ADJP (ADJP (JJ same) (PP (IN as) (NP (NP (NNP Chinatown)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN pricing)))))))) (PRN (-LRB- -LRB-) (@PRN (ADVP (RB slightly)) (@PRN (ADJP (JJR higher)) (-RRB- -RRB-))))) (PRN (CC but) (ADVP (RB definitely)))) (CD one))) (PP (IN of) (NP (NP (DT the) (@NP (JJR better) (@NP (JJ Vietnamese) (NNS restaurants)))) (ADVP (IN outside)))))) (PP (IN of) (NP (DT the) (NN neighbourhood)))) (. .)))
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (@VP (VBP do) (RB n't)) (VP (@VP (VB have) (NP (NN time))) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NNP Chinatown)))))))))) (@S (, ,) (@S (NP (DT this)) (@S (VP (@VP (VBZ is) (NP (DT the) (@NP (JJ next) (@NP (JJS best) (NN thing))))) (SBAR (IN as) (S (NP (PRP it)) (VP (@VP (VBZ is) (ADVP (IN down) (NP (DT the) (NN street)))) (PP (IN from) (NP (PRP me))))))) (. .))))))
+
+
+(ROOT (S (@S (@S (@S (S (ADVP (RB So) (RB far)) (@S (NP (NP (DT the) (@NP (JJ only) (NNS items))) (SBAR (S (NP (PRP I)) (VP (VBP have) (VP (VBN tried)))))) (VP (VBP are) (NP (NP (DT the) (NNS phos)) (PRN (-LRB- -LRB-) (@PRN (NP (@NP (NP (NN beef)) (, ,)) (NP (@NP (NP (NN chicken)) (CC &)) (NP (NN vegetarian)))) (-RRB- -RRB-))))))) (: -)) (CC and)) (S (NP (PRP they)) (VP (VBP have) (S (ADJP (RB not) (JJ disappointed)) (NP (PRP me)))))) (. !)))
+(ROOT (FRAG (ADVP (RB Especially)) (@FRAG (NP (DT the) (@NP (NN chicken) (NN pho))) (. .))))
+
+
+(ROOT (S (S (NP-TMP (JJ Next) (NN time)) (@S (NP (PRP I)) (VP (VBP go) (ADVP (RB back))))) (@S (, ,) (@S (NP (PRP I)) (@S (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB try) (NP (@NP (@NP (NP (DT the) (@NP (NN banh) (NN cuon))) (PRN (-LRB- -LRB-) (@PRN (NP (JJ steamed) (@NP (NN rice) (NN noodle))) (-RRB- -RRB-)))) (CC and)) (NP (DT the) (NNS vermicelli)))))))) (. !))))))
+
+
+(ROOT (S (VP (@VP (VP (ADVP (RB Always)) (@VP (VBD drove) (PP (IN past) (NP (DT this) (@NP (NN coffee) (NN house)))))) (CC and)) (VP (VBD wondered) (PP (IN about) (NP (PRP it))))) (. .)))
+(ROOT (S (NP (@NP (NP (NN BF)) (CC and)) (NP (PRP I))) (@S (ADVP (RB finally)) (@S (VP (VBD made) (NP (DT the) (@NP (NN stop) (S (VP (TO to) (VP (@VP (VB try) (NP (DT this) (NN place))) (ADVP (RB out)))))))) (. .)))))
+
+
+(ROOT (NP (@NP (@NP (NP (JJ Cute) (@NP (, ,) (@NP (JJ quaint) (@NP (NN coffee) (NN shop))))) (PP (IN with) (NP (JJ nice) (@NP (NN muskoka) (NNS chairs))))) (ADVP (IN outside))) (. .)))
+
+
+(ROOT (S (NP (NN BF)) (@S (VP (@VP (VP (VBD ordered) (NP (DT an) (@NP (NN ice) (NN coffee)))) (CC and)) (VP (ADVP (RB really)) (@VP (VBD enjoyed) (NP (PRP it))))) (. !))))
+(ROOT (S (VP (VB Guess) (SBAR (S (NP (PRP we)) (VP (MD will) (VP (VB be) (ADVP (RB back) (RB again))))))) (. !)))
+
+
+(ROOT (FRAG (RB Not) (ADJP (JJ bad) (PP (IN !!)))))
+(ROOT (FRAG (NP (NN Love)) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (@NP (NP (DT a) (NN gluten-free)) (, ,)) (NP (NP (JJ vegan) (NN version)) (PP (IN of) (NP (DT the) (@NP (NN cheese) (@NP (NNS curds) (@NP (CC and) (@NP (NN gravy) (NN !!))))))))))))))
+
+
+(ROOT (S (VP (@VP (VBP Have) (RB n't)) (VP (@VP (@VP (VBN done) (NP (DT the) (@NP (NN poutine) (@NP (NN taste) (NN test))))) (ADVP (RB yet) (PP (IN with) (NP (NN smoke) (POS 's))))) (SBAR (CC but) (S (NP (NNP Im)) (VP (VBD excited) (S (VP (TO to) (VP (VB see) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (RBR better))))))))))))) (. .)))
+(ROOT (FRAG (ADVP (RB However)) (NP (NP (NN poutini)) (SBAR (S (NP (POS 's)) (VP (MD might) (VP (VB win) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP are) (ADJP (@ADJP (JJ vegan) (CC and)) (JJ gluten-free))))))))))))
+
+
+(ROOT (NP (@NP (NP (NN Love)) (NP (DT this) (NN place))) (. !)))
+
+
+(ROOT (S (NP (NNP Peggy)) (@S (VP (@VP (VP (VBZ is) (ADJP (JJ great) (PP (IN with) (NP (NNS dogs))))) (CC and)) (VP (VBZ does) (NP (DT a) (@NP (JJ great) (NN job))))) (. !))))
+(ROOT (S (NP (PRP She)) (@S (VP (@VP (VP (VBZ is) (NP (NP (RB very) (NN patience)) (PP (IN with) (NP (PRP him))))) (CC and)) (VP (MD will) (VP (VB make) (NP (NP (DT any) (NNS adjustments)) (SBAR (S (NP (PRP you)) (VP (VBP need) (SBAR (IN before) (S (NP (PRP you)) (VP (VBP leave) (NP (DT the) (NN store)))))))))))) (. .))))
+(ROOT (S (NP (PRP$ My) (@NP (JJ little) (NN guy))) (@S (VP (VBZ has) (NP (NP (DT no) (NNS problems)) (VP (VBG coming) (ADVP (RB here))))) (. .))))
+
+
+(ROOT (S (NP (PRP They)) (@S (ADVP (RB also)) (@S (VP (VBP have) (NP (@NP (NP (ADJP (RB very) (JJ good)) (@NP (NN bully) (NNS sticks))) (PRN (-LRB- -LRB-) (@PRN (NP (DT the) (@NP (JJ non-smelly) (NNS ones))) (-RRB- -RRB-)))) (SBAR (WHNP (WDT that)) (S (NP (@NP (NP (PRP$ my) (@NP (JJ little) (NN guy))) (CC and)) (NP (PRP$ his) (NNS friends))) (VP (VBP love)))))) (. !)))))
+
+
+(ROOT (S (NP (DT This)) (@S (VP (@VP (VBZ is) (ADVP (RB currently))) (NP (NP (PRP$ my) (NNS parents)) (NP (JJ new) (@NP (JJ favourite) (NN restaurant))))) (. .))))
+
+
+(ROOT (S (NP (PRP We)) (@S (VP (@VP (VBP come) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN morning)) (PP (IN for) (NP (JJ dim) (NN sum)))))) (. .))))
+(ROOT (S (S (NP (PRP They)) (VP (@VP (VBP are) (RB not)) (NP (NP (DT the) (NN cart)) (VP (VBG pushing) (NP (NP (NN type)) (PP (IN of) (NP (JJ dim) (NN sum)))))))) (@S (, ,) (@S (NP (PRP it)) (@S (VP (VBZ is) (NP (@NP (NP (NN order)) (ADVP (IN off))) (PP (IN of) (NP (DT the) (NN sheet))))) (. .))))))
+(ROOT (S (NP (JJ Dim) (NN sum)) (@S (VP (@VP (@VP (VBZ is) (RB not)) (ADJP (@ADJP (ADJP (JJ bad)) (CC and)) (ADJP (RB not) (JJ expensive)))) (ADVP (CC either))) (. .))))
+
+
+(ROOT (S (NP (PRP We)) (@S (VP (RB also) (NP (JJ frequent) (@NP (DT the) (@NP (NN dinner) (NN scene))))) (. .))))
+(ROOT (S (NP (PRP$ Their) (@NP (VBN set) (@NP (NN dinner) (NN menu)))) (@S (VP (@VP (VBZ is) (RB not)) (ADJP (JJ bad))) (. .))))
+(ROOT (S (@S (@S (S (NP (PRP We)) (@S (ADVP (RB typically)) (VP (VBP order) (NP (DT a) (@NP (CD 6) (@NP (NN dish) (NN menu))))))) (CC and)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (@ADJP (JJ big) (RB enough)) (S (VP (TO to) (VP (@VP (VB feed) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (CD 9))))) (PP (IN with) (NP (NNS leftovers)))))))))) (. .)))
+
+
+(ROOT (S (ADVP (RB Overall)) (@S (, ,) (@S (NP (NN food)) (@S (VP (VBZ is) (ADJP (RB pretty) (JJ tasty))) (. !))))))
+
+
+(ROOT (S (NP (NN Server)) (@S (VP (VBD was) (ADJP (NP (DT a) (JJ little)) (JJ rude))) (. .))))
+
+
+(ROOT (S (VP (VBN Ordered) (NP (@NP (@NP (@NP (NP (DT the) (NN calamari)) (, ,)) (NP (NN duck) (@NP (NN confit) (NN poutine)))) (CC and)) (NP (@NP (NP (NP (DT the) (@NP (NNS trout) (NN fish))) (PP (IN with) (NP (NN miso) (NN soba)))) (: -)) (NP (NP (DT all)) (ADJP (RB very) (JJ tasty)))))) (. .)))
+(ROOT (FRAG (PP (@PP (ADVP (RB Definitely)) (RB not)) (NP (PRP$ your) (@NP (JJ typical) (NN diner)))) (. .)))
+
+
+(ROOT (S (@S (@S (@S (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (NP (NNP Tidy) (POS 's)) (NNP Flowers)) (VP (VBD had) (NP (NP (DT a) (@NP (JJ great) (NN reputation))) (PP (IN as) (NP (DT a) (NN florist))))))))) (, ,)) (CC but)) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ wrong)))))))) (. !)))
+
+
+(ROOT (S (PP (IN For) (NP (NP (NNP Valentine) (POS 's)) (NN Day))) (@S (NP (PRP$ my) (NN boyfriend)) (@S (VP (VBD had) (VP (@VP (VBN ordered) (NP (NNS roses))) (PP (IN with) (NP (NNP Tidy) (POS 's))))) (. .)))))
+(ROOT (S (ADVP (RB However)) (@S (, ,) (@S (NP (NP (DT the) (NNS flowers)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN delivered)))))) (@S (VP (VBD was) (ADJP (RB not) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD had) (VP (VBN ordered))))))) (. .))))))
+(ROOT (S (NP (PRP He)) (@S (VP (VBD had) (VP (@VP (@VP (@VP (VP (VBN placed) (PP (IN in) (NP (NP (DT an) (NN order)) (PP (IN for) (NP (JJ long) (@NP (NN stem) (NNS roses))))))) (, ,)) (VP (VBN mixed) (PP (IN with) (NP (NNS orchids))))) (CC and)) (VP (VBD was) (VP (VBN charged) (PP (IN for) (NP (DT that))))))) (. .))))
+(ROOT (S (SBAR (WHNP (WDT What)) (S (VP (VBD had) (VP (VBN showed) (PRT (RP up)))))) (@S (VP (VBD was) (NP (@NP (NP (NP (DT a) (@NP (JJ small) (NN vase))) (PP (IN with) (NP (@NP (NP (CD 4) (@NP (JJ short) (@NP (NN cut) (NNS roses)))) (CC and)) (NP (DT some) (NNS greens))))) (: -)) (NP (@NP (@NP (NP (NN table) (NN ornament)) (, ,)) (RB not)) (NP (RB really) (@NP (NP (NNP Valentine) (POS 's)) (@NP (NN Day) (NNS flowers))))))) (. .))))
+
+
+(ROOT (S (@S (@S (S (PP (IN In) (S (VP (VBG speaking) (PP (IN with) (NP (DT another) (NN friend)))))) (@S (, ,) (@S (NP (NN something) (JJ similar)) (VP (VBD happened) (PP (TO to) (NP (PRP$ her))))))) (: -)) (S (NP (PRP$ her) (NN fiancee)) (VP (VBD had) (VP (@VP (@VP (VBN ordered) (NP (NP (DT a) (NN dozen)) (PP (IN of) (NP (NP (NNS roses)) (PP (IN for) (NP (PRP$ her))))))) (PP (IN for) (NP (NP (NNP Valentine) (POS 's)) (NN Day)))) (SBAR (IN while) (S (@S (S (NP (PRP he)) (VP (VBD was) (PP (IN in) (NP (NP (NNP Germany)) (PP (IN as) (NP (DT a) (NN surprise))))))) (CC and)) (S (NP (PRP they)) (@S (ADVP (RB never)) (VP (VBD showed) (PRT (RP up))))))))))) (. .)))
+(ROOT (S (SBAR (ADVP (RB So)) (@SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (@VP (VBD called) (NP (PRP them))) (PP (TO to) (NP (NN complaint))))))) (@S (, ,) (@S (NP (NP (PRP they)) (ADVP (RB actually))) (@S (ADVP (RB then)) (@S (VP (@VP (VBN called) (PRT (RP up))) (NP (PRP$ my) (@NP (NN friend) (S (VP (TO to) (VP (VB confirm) (SBAR (@SBAR (@SBAR (IN whether) (CC or)) (RB not)) (S (NP (PRP she)) (VP (VBD had) (VP (VBN received) (NP (DT the) (NNS flowers)))))))))))) (. .)))))))
+(ROOT (S (SBAR (WHNP (WDT Which)) (S (NP (PRP she)) (VP (VBD did) (RB n't)))) (@S (, ,) (@S (@S (@S (S (IN so) (@S (NP (PRP they)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB resend)))))))) (: -)) (S (ADVP (RB only)) (VP (TO to) (VP (VB have) (S (NP (PRP them)) (VP (@VP (VB deliver) (NP (PRP it))) (PP (TO to) (NP (DT the) (@NP (JJ wrong) (NN place)))))))))) (. .)))))
+
+
+(ROOT (S (S (VP (VBG Understanding) (NP (NP (DT that) (@NP (NNP Valentine) (POS 's))) (NN Day)))) (@S (VP (@VP (VBZ is) (NP (DT the) (RBS most))) (NP (@NP (NP (JJS busiest)) (SBAR (S (NP (NP (NN day)) (PP (IN for) (NP (@NP (NNS florists) (CC and)) (NNS mistakes)))) (VP (@VP (VP (VBP do) (VP (VB happen))) (, ,)) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP they)) (VP (VBD had) (VP (VBN handled) (SBAR (S (NP (PRP it)) (VP (VBD was) (RB not))))))))))))) (SBAR (WHNP (WP what)) (S (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN expected) (PP (IN from) (NP (NP (DT a) (NN florist)) (PP (IN of) (NP (DT that) (NN nature))))))))))))) (. .))))
+
+
+(ROOT (S (S (VP (VBN Wanted) (S (VP (TO to) (VP (@VP (VB check) (PRT (RP out))) (NP (NP (DT this) (NN place)) (ADJP (JJ due) (PP (TO to) (NP (PDT all) (@NP (DT the) (NN hype))))))))))) (@S (NP (PRP I)) (@S (VP (VBD had) (VP (VBN heard))) (. .)))))
+(ROOT (S (NP (PRP$ My) (NN friend)) (@S (VP (VBD wanted) (S (VP (TO to) (VP (@VP (VB come) (ADVP (RB here))) (PP (IN for) (NP (PRP$ her) (NN birthday))))))) (. .))))
+(ROOT (S (S (NP (PRP We)) (VP (VBD had) (VP (@VP (@VP (VP (NP (DT a) (NN group)) (PP (IN of) (NP (CD seven)))) (CC and)) (VP (VBN based) (PP (IN on) (NP (DT the) (NN way))))) (NP (NP (DT the) (@NP (VBG seating) (NNS works))) (PRN (-LRB- -LRB-) (@PRN (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ communal))))) (-RRB- -RRB-))))))) (@S (, ,) (@S (NP (PRP we)) (@S (VP (@VP (VBP wind) (PRT (RP up))) (S (VP (VBG sharing) (PP (IN with) (NP (NP (DT another) (NN group)) (PP (IN of) (NP (CD five)))))))) (. .))))))
+
+
+(ROOT (S (NP (NNP Food)) (@S (@S (VP (VBD was) (SBAR (FRAG (X (SYM ok)) (@FRAG (: -) (NP (RB not) (JJ sure)))))) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN hype)) (VP (VBD was))))) (. .))))
+(ROOT (S (NP (NP (QP (RB Almost) (CD 75)) (NN %)) (PP (IN of) (NP (DT the) (NNS dishes)))) (@S (VP (@VP (VBD had) (NP (NP (DT some) (NN sort)) (PP (IN of) (NP (NN cheese))))) (PP (IN in) (NP (PRP it)))) (. .))))
+
+
+(ROOT (S (NP (DT This) (NN place)) (@S (VP (VBZ is) (ADJP (RB very) (@ADJP (JJ loud) (SBAR (IN so) (FRAG (ADJP (RB not) (@ADJP (JJ ideal) (PP (IN for) (S (VP (VBG catching) (NP (VBG up\/talking)))))))))))) (. .))))
+(ROOT (FRAG (NP (RB Not) (@NP (DT a) (@NP (JJ great) (NN place)))) (@FRAG (S (VP (TO to) (VP (VB go) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP have) (NP (@NP (NP (DT any) (NN gluten)) (CC or)) (NP (JJ vegan) (NNS restrictions))))))))) (. .))))
+
+
+(ROOT (NP (JJ Interesting) (@NP (NN concept) (. .))))
+(ROOT (X (@X (@X (S (VP (@VP (MD Would) (ADVP (RB definitely))) (VP (VB recommend) (S (VP (TO to) (VP (@VP (@VP (@VP (@VP (VB try) (NP (DT this) (NN place))) (ADVP (RB once))) (: -)) (PRN (CC but) (ADVP (RB definitely)))) (PP (RB not) (@PP (IN worth) (NP (DT the) (CD 30)))))))))) (: -)) (NP (NP (CD 45) (NNS mins)) (SBAR (S (VP (VB wait)))))) (. .)))
+
+
+(ROOT (S (NP (DT This) (NN place)) (@S (VP (VBZ is) (ADJP (JJ awesome))) (. !))))
+(ROOT (ADJP (RB Definitely) (@ADJP (JJ authentic) (PP (IN !!!)))))
+
+
+(ROOT (NP (@NP (NP (PRP$ My) (@NP (CD two) (@NP (JJ favourite) (NNS dishes)))) (VP (VBP are) (NP (@NP (NP (DT the) (@NP (NN rice) (@NP (NN flour) (NNS rolls)))) (CC and)) (NP (DT the) (@NP (NN chicken) (NN pho)))))) (. .)))
+(ROOT (S (NP (DT The) (@NP (NN rice) (@NP (NN flour) (NNS rolls)))) (@S (VP (@VP (VBP are) (ADVP (RB always))) (ADJP (JJ fresh) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP I)) (VP (VBP 'm) (NP (EX there))))))) (. !))))
+(ROOT (S (CC And) (@S (NP (DT the) (@NP (NN chicken) (NN pho))) (VP (@VP (VBZ is) (ADVP (RB always))) (NP (JJ flavourful) (NN !!))))))
+(ROOT (FRAG (NP (NN mmmm)) (@FRAG (: ...) (@FRAG (S (NP (NP (RB just) (NN thinking)) (PP (IN of) (NP (PRP it)))) (VP (VBZ makes) (S (NP (PRP me)) (VP (VB want) (NP (DT some)))))) (. !)))))
+
+
+(ROOT (S (@S (@S (S (NP (PRP$ My) (NN boyfriend)) (VP (VBZ is) (ADJP (JJ Vietnamese)))) (CC and)) (S (NP (PRP he)) (VP (VBZ agrees) (SBAR (IN that) (S (NP (DT this) (NN place)) (VP (VBZ is) (NP (@NP (NP (JJ authentic)) (CC and)) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (@NP (JJS best) (@NP (JJ Vietnamese) (NNS restaurants)))) (SBAR (S (NP (PRP he)) (VP (@VP (VBZ has) (ADVP (RB ever))) (VP (VBN eaten) (PP (IN at)))))))))))))))) (. .)))
+
+
+(ROOT (S (NP (NNS Prices)) (@S (VP (VBP are) (ADJP (RB very) (@ADJP (JJ reasonable) (RB too)))) (. !))))
+
+
+(ROOT (S (NP (DT a)) (@S (VP (MD must) (VP (VB stop) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP are) (PP (IN in) (NP (NN montreal)))))))) (. !))))
+
+
+(ROOT (S (NP (PRP I)) (@S (VP (@VP (VBD was) (PP (IN in) (NP (NP (NN Mtl)) (PP (IN for) (NP (DT the) (@NP (@NP (NN weekend) (CC and)) (NN wind))))))) (PP (IN up) (S (VP (@VP (VBG eating) (NP-TMP (ADVP (RB here)) (@NP-TMP (CD 2) (NNS nights)))) (PP (IN in) (NP (DT a) (NN row))))))) (. !))))
+
+
+(ROOT (S (NP (DT The) (NNS sandwiches)) (@S (ADVP (RB here)) (@S (VP (VBP are) (ADJP (JJ unbelieveable))) (. !)))))
+(ROOT (S (NP (DT The) (@NP (JJ smoked) (NN meat))) (@S (VP (VBZ is) (ADJP (@ADJP (ADJP (RB so) (@ADJP (@ADJP (JJ tasty) (CC and)) (JJ salty))) (CC but)) (ADJP (RB so) (JJ good)))) (. .))))
+(ROOT (S (NP (DT The) (NN bread)) (@S (ADVP (RB definitely)) (@S (VP (VBZ complements) (NP (DT the) (NN meat))) (. !)))))
+
+
+(ROOT (FRAG (ADVP (ADVP (RB Not) (RB much)) (PP (IN of) (ADVP (NP (DT a) (NN line)) (IN up)))) (@FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (@VP (VBP come) (ADVP (RB either))) (ADVP (RB later) (PP (IN in) (NP (DT the) (NN evening))))))) (. .))))
+
+
+(ROOT (S (VP (VB Remember) (S (VP (TO to) (VP (@VP (VB leave) (NP (DT a) (NN tip))) (PP (IN in) (NP (NP (NP (DT the) (NN plate)) (SBAR (WHADVP (WRB when)) (S (@S (S (NP (PRP you)) (VP (VBP order) (S (VP (VB take) (PRT (RP out)))))) (CC and)) (S (NP (DT the) (NNS servers)) (VP (MD will) (VP (VB be) (ADJP (JJ extra)))))))) (ADJP (@ADJP (JJ nice) (CC and)) (JJ funny)))))))) (. !)))
+
+
+(ROOT (S (@S (@S (S (NP (PRP I)) (@S (ADVP (RB too)) (VP (VBP have) (VP (VBN been) (VP (VBG trying) (S (VP (TO to) (VP (VB book) (NP (DT an) (@NP (NN appt) (S (VP (TO to) (VP (VB use) (NP (PRP$ my) (NN voucher))))))))))))))) (: -)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN been) (NP (@NP (NP (NNS months)) (CC and)) (NP (@NP (NP (NP (JJ countless)) (PP (IN of) (NP (NN phone) (NNS calls)))) (: -)) (NP (NP (DT no) (NN response)) (ADVP (RB yet))))))))) (. .)))
+
+
+(ROOT (S (VP (VB Agree) (SBAR (IN with) (S (NP (DT the) (NNS buyers)) (VP (VBP beware) (NP (NN warning)))))) (. .)))
+(ROOT (S (NP (PRP I)) (@S (ADVP (RB only)) (@S (VP (VBP wish) (SBAR (S (NP (NP (NNS reviews)) (PP (IN on) (NP (DT this) (NN place)))) (VP (VBD was) (VP (@VP (VBN posted) (NP (JJ previous))) (PP (TO to) (NP (NP (PRP$ my) (NN purchase)) (PP (IN of) (NP (DT this) (NN voucher)))))))))) (. .)))))
+
+
+(ROOT (NP (@NP (NP (NNP Came)) (NP (NP (NP (RB here)) (PP (IN with) (NP (PRP$ my) (NNS girlfriends)))) (NP (CD one) (@NP (NNP Sunday) (NN afternoon))))) (. .)))
+(ROOT (S (NP (DT This) (NN place)) (@S (VP (MD will) (VP (@VP (VB take) (NP (DT a) (@NP (JJ long) (NN time)))) (S (VP (TO to) (VP (@VP (@VP (VB serve) (NP (PRP$ your) (NN food))) (: -)) (SBAR (IN as) (S (NP (PRP it)) (VP (@VP (@VP (VBD took) (NP (PRP them))) (NP-TMP (RB almost) (@NP-TMP (DT an) (NN hour)))) (S (VP (TO to) (VP (@VP (VB give) (NP (PRP us))) (NP (PRP$ our) (NN food))))))))))))) (. .))))
+(ROOT (S (RB So) (@S (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (PRP you)) (VP (@VP (VBP give) (NP (PRP yourself))) (NP (NP (NNS lots)) (PP (IN of) (NP (NN time))))))))) (. !))))
+(ROOT (S (NP (PRP It)) (@S (VP (@VP (VBZ is) (ADVP (RB definitely))) (NP (DT a) (@NP (JJ lazy) (@NP (NN brunch) (NN place))))) (. !))))
+
+
+(ROOT (S (ADVP (RB Definitely)) (@S (VP (VB recommend) (NP (DT the) (NNS pancakes))) (. !))))
+(ROOT (S (@S (@S (S (VP (VB Beware) (PP (IN of) (NP (DT the) (@NP (NN portion) (NNS sizes)))))) (: -)) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ huge))))) (. !)))
+
+
+(ROOT (S (NP (NP (NNP Came)) (PP (ADVP (RB here)) (@PP (IN for) (NP (NP (DT a) (NN burger)) (SBAR (IN as) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NNS friends)))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (@VP (VBD had) (NP (JJ good) (@NP (@NP (NNS burgers) (CC and)) (NNS people)))) (PP (IN from) (NP (NN work))))))))))))) (@S (VP (MD would) (VP (VB come) (PP (IN by) (NP (NP (RB twice) (@NP (DT a) (NN month))) (PP (IN for) (NP (DT a) (@NP (NN burger) (NN run)))))))) (. .))))
+
+
+(ROOT (S (S (VP (VBN Ordered))) (@S (PRN (S (NP (DT the) (NN original)) (VP (VBD was) (VP (VBD was) (ADJP (JJ ok))))) (, ,)) (@S (VP (@VP (@VP (VBD was) (RB n't)) (ADJP (IN as) (JJ amazing))) (SBAR (IN as) (S (NP (NN everyone)) (VP (VBZ says) (S (NP (PRP it)) (VP (TO to) (VP (VB be)))))))) (. .)))))
+(ROOT (S (NP (PRP I)) (@S (VP (VBP think) (SBAR (S (NP (DT the) (@NP (NN veggie) (NN option))) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (JJR better)))))))) (. .))))
+
+
+(ROOT (NP (@NP (NP (DT A) (@NP (JJ little) (NN pricy))) (PP (IN for) (NP (DT a) (@NP (JJ take-out) (NN burger))))) (. .)))
+
+
+(ROOT (S (VP (ADVP (RB really)) (@VP (VBN excited) (PP (TO to) (VP (VB hear) (PP (IN of) (NP (NP (DT this) (NN restaurant)) (VP (VBG coming) (PP (TO to) (NP (NNP Toronto)))))))))) (. .)))
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP it)) (@S (ADVP (RB finally)) (VP (VBD opened))))) (@S (, ,) (@S (NP (@NP (NP (PRP$ my) (NN friend)) (CC and)) (NP (PRP I))) (@S (VP (@VP (VBD were) (ADVP (RB really))) (VP (VBN excited) (S (VP (TO to) (VP (VB try) (NP (DT this) (NN place))))))) (. .))))))
+
+
+(ROOT (S (S (NP (NNP Service)) (@S (ADVP (RB here)) (VP (@VP (VBZ is) (RB not)) (ADJP (JJ great))))) (@S (, ,) (@S (NP (PRP it)) (@S (VP (VBD felt) (SBAR (@SBAR (SBAR (IN like) (S (NP (PRP they)) (VP (VBD had) (VP (VBN forgotten) (PP (IN about) (NP (PRP us))))))) (CC and)) (SBAR (IN that) (S (NP (PRP they)) (VP (@VP (VBD did) (RB n't)) (VP (@VP (VB care) (PP (IN about) (NP (DT the) (NN service)))) (SBAR (IN as) (S (NP (NN everything)) (VP (@VP (@VP (VBD came) (PRT (RP out))) (NP (CD one))) (PP (IN at) (NP (DT a) (NN time)))))))))))) (. .))))))
+(ROOT (S (NP (@NP (NP (PRP$ My) (NN friend)) (CC and)) (NP (PRP I))) (@S (VP (@VP (VBD had) (DT each)) (VP (VBD ordered) (NP (@NP (NP (DT a) (@NP (NN ginger) (NN beer))) (, ,)) (SBAR (WHNP (WDT which)) (S (VP (@VP (VBD came) (PRT (RP out))) (PP (IN at) (NP (NP (CD two) (@NP (JJ separate) (NNS times))) (PRN (-LRB- -LRB-) (@PRN (S (NP (PRP it)) (VP (@VP (VBD was) (ADJP (RB almost) (IN as))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBD had) (S (VP (TO to) (VP (@VP (VP (VB go) (PP (IN in) (NP (DT the) (NN back)))) (CC and)) (VP (@VP (@VP (VB make) (S (NP (PRP it)) (NP (PRP themselves)))) (: -)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB how) (JJ long)) (S (NP (PRP it)) (VP (VBD took)))))))))))))))) (-RRB- -RRB-))))))))))) (. .))))
+
+
+(ROOT (S (NP (EX There)) (@S (VP (VBZ is) (ADJP (RB absolutely) (SBAR (X (@X (@X (NP (DT no) (@NP (JJ vegetarian) (NNS options))) (, ,)) (PP (IN except) (PP (IN for) (NP (DT the) (@NP (CD one) (@NP (JJ cold) (NN noodle))))))) (: -)) (S (NP (DT the) (@NP (NN mushroom) (NN bun))) (VP (@VP (VBZ is) (RB not)) (ADJP (JJ vegetarian))))))) (. .))))
+
+
+(ROOT (NP (@NP (@NP (@NP (NP (NP (DT The) (@NP (NN pork) (@NP (NN belly) (NN bun)))) (SBAR (S (VP (VBD was) (ADJP (NN nothing) (JJ special)))))) (: -)) (RB just)) (NP (NP (DT a) (NN piece)) (PP (IN of) (NP (NP (NN meat)) (PP (IN with) (NP (DT the) (NN bun))))))) (. .)))
+(ROOT (S (@S (@S (S (PP (IN For) (NP (PRP$ my) (@NP (JJ vegetarian) (NN friend)))) (@S (, ,) (@S (NP (PRP we)) (VP (VBD had) (VP (@VP (VBN ordered) (NP (DT the) (@NP (NN bun) (NN plain)))) (SBAR (IN so) (S (NP (PRP she)) (VP (MD could) (VP (@VP (VB experience) (NP (PRP it))) (ADVP (RB as) (RB well))))))))))) (, ,)) (CC and)) (S (NP (PRP they)) (@S (ADVP (RB literally) (RB just)) (VP (@VP (@VP (@VP (@VP (VBD gave) (NP (PRP it))) (PP (TO to) (NP (PRP us)))) (ADVP (RB plain))) (, ,)) (PP (IN with) (NP (DT no) (NN sauce))))))))
+
+
+(ROOT (S (NP (DT The) (@NP (NNP Momofuko) (NN ramen))) (@S (VP (VBD was) (ADJP (JJ awful))) (. .))))
+(ROOT (S (NP (PRP It)) (@S (VP (VBD was) (ADJP (@ADJP (JJ bland) (CC and)) (JJ mushy))) (. .))))
+(ROOT (S (SBAR (IN After) (S (NP (DT a) (JJ few)) (VP (VBZ bites)))) (@S (, ,) (@S (NP (PRP I)) (@S (VP (@VP (MD could) (RB n't)) (VP (VB handle) (S (VP (VBG eating) (ADVP (RB anymore)))))) (. .))))))
+
+
+(ROOT (S (NP (NNP Momofuko)) (@S (VP (@VP (VBZ is) (RB not)) (NP (DT the) (@NP (NN place) (S (VP (TO to) (VP (VB go) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (NP (JJ real) (NNS ramen))))))))))) (. .))))
+(ROOT (S (NP (PRP I)) (@S (VP (VBP 've) (VP (VBD had) (NP (NP (JJR better) (NN experience)) (PP (IN with) (NP (JJ instant) (NNS noodles)))))) (. .))))
+
+
+(ROOT (S (VP (@VP (VBD was) (ADVP (RB always))) (VP (VBN intrigued) (PP (IN of) (NP (NP (DT this) (NN place)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP pass) (PP (IN by) (PP (IN on) (NP (DT the) (NN streetcar))))))))))) (. .)))
+(ROOT (SINV (ADVP (RB Finally)) (@SINV (@SINV (VP (VBN decided) (S (VP (TO to) (VP (VB try))))) (NP (NP (DT this) (NN place)) (PP (IN out) (NP (DT this) (@NP (JJ past) (NN summer)))))) (. .))))
+(ROOT (S (VP (VB Read) (SBAR (S (NP (DT the) (@NP (@NP (NNS reviews) (CC and)) (NN everyone))) (VP (VBD had) (NP (@NP (NP (NNS lots)) (PP (IN of) (NP (JJ good) (NNS things)))) (S (VP (TO to) (VP (VB say))))))))) (. .)))
+
+
+(ROOT (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NNS friends)))) (@S (VP (@VP (VP (VBZ has) (NP (JJ dietary) (NNS restrictions))) (CC and)) (VP (VBZ needs) (S (VP (TO to) (VP (VB have) (NP (JJ gluten-free) (NNS items))))))) (. .))))
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (@S (@S (@S (S (NP (PRP I)) (VP (VBD had) (VP (VBN called) (S (VP (TO to) (VP (VB make) (NP (DT the) (@NP (NN dinner) (NN reservation))))))))) (, ,)) (S (NP (PRP I)) (VP (VBD had) (VP (VBN asked))))) (CC and)) (S (NP (DT the) (NN hostess)) (VP (VBD said))))) (@S (, ,) (@S (INTJ (UH yes)) (@S (, ,) (@S (NP (PRP we)) (@S (VP (VBP do) (VP (VB have) (NP (NP (JJ gluten-free) (NNS items)) (SBAR (WHNP (WDT that)) (S (VP (@VP (@VP (VBP are) (RB not)) (ADVP (RB just))) (NP (NNS salads)))))))) (. .))))))))
+(ROOT (S (ADVP (RB Just)) (@S (VP (VB let) (S (NP (DT the) (NN server)) (VP (VB know) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP come) (PP (IN in)))))))) (. .))))
+
+
+(ROOT (S (@S (@S (S (VP (VBN excited) (S (VP (TO to) (VP (@VP (VB find) (NP (DT another) (@NP (NN gluten-free) (NN place)))) (PP (IN in) (NP (@NP (NP (NN town)) (, ,)) (NP (PRP$ my) (NNS friends))))))))) (CC and)) (S (NP (PRP I)) (VP (@VP (VBP show) (PRT (RP up))) (PP (IN for) (NP (DT the) (NN reservation)))))) (. .)))
+(ROOT (S (PP (IN Upon) (NP (NN arrival))) (@S (, ,) (@S (NP (DT the) (NN server)) (@S (VP (VBD was) (ADJP (RB really) (@ADJP (@ADJP (JJ nice) (CC and)) (JJ friendly)))) (. .))))))
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBD had) (VP (VBN asked) (PP (IN about) (NP (DT the) (@NP (JJ gluten-free) (NNS options)))))))) (@S (, ,) (@S (NP (DT the) (NN answer)) (VP (@VP (VBD was) (ADVP (RB unfortunately))) (SBAR (IN as) (S (NP (PRP we)) (VP (@VP (VBP do) (RB not)) (VP (@VP (VB cook) (NP (PRP$ our) (NNS foods))) (ADVP (RB separately)))))))))))
+
+
+(ROOT (S (IN So) (@S (NP (PRP we)) (@S (VP (@VP (VBD decided) (S (VP (TO to) (VP (ADVP (RB just)) (@VP (@VP (VB order) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (@NP (NNS apps) (CC and)) (NNS drinks))))) (SBAR (IN as) (S (@S (@S (S (NP (PRP we)) (VP (VBP have) (VP (VBN been) (VP (@VP (VBG sitting) (ADVP (RB there))) (PP (IN for) (NP (RB quite) (@NP (DT some) (NN time)))))))) (, ,)) (CC and)) (S (NP (PRP it)) (VP (@VP (VBD was) (RB n't)) (NP (NP (DT the) (@NP (NN server) (POS 's))) (NN fault))))))))))) (SBAR (IN that) (S (NP (EX there)) (VP (@VP (VBD was) (RB n't)) (NP (NP (DT any) (@NP (JJ gluten-free) (NNS items))) (PRN (-LRB- -LRB-) (@PRN (S (NP (PRP we)) (VP (VBD felt) (ADJP (JJ bad) (S (VP (TO to) (VP (@VP (VP (ADVP (RB just)) (@VP (VB get) (PRT (RB up)))) (CC and)) (VP (VB leave)))))))) (-RRB- -RRB-)))))))) (. .)))))
+
+
+(ROOT (S (S (PP (IN In) (S (VP (VBG reading) (NP (DT the) (NNS reviews))))) (@S (, ,) (@S (NP (NN everyone)) (VP (VBD thought) (ADJP (RB very) (@ADJP (RB highly) (PP (IN of) (NP (DT the) (@NP (NN mac) (@NP (CC and) (@NP (@NP (NN cheese) (CC and)) (NN poutine)))))))))))) (@S (, ,) (@S (NP (PRP we)) (@S (VP (VBD had) (VP (VBN ordered) (SBAR (IN that) (S (VP (TO to) (VP (VB try))))))) (. .))))))
+(ROOT (S (NP (PRP It)) (@S (VP (@VP (@VP (VBD was) (RB n't)) (ADJP (@ADJP (@ADJP (ADJP (JJ bad)) (, ,)) (CC but)) (ADJP (RB not) (JJ sure)))) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN hype)) (VP (VBD was) (ADVP (RB about)))))) (. .))))
+(ROOT (S (@S (@S (S (UCP (@UCP (ADJP (RB Definitely) (@ADJP (RB pretty) (JJ rich))) (CC and)) (VP (VBG filling)))) (CC and)) (S (VP (VBN made) (PP (IN for) (S (VP (VBG sharing))))))) (. !)))
+
+
+(ROOT (S (NP (DT This) (NN place)) (@S (VP (@VP (VBZ reminds) (PP (IN of) (NP (NP (NNP St) (@NP (NNP Lawrence) (NNP Market))) (PP (IN in) (NP (NP (NNP Toronto)) (PP (CC but) (NP (JJR more) (@NP (@NP (NNS veggies) (CC and)) (NNS fruits))))))))) (PP (RB then) (NP (NN seafood)))) (. .))))
+
+
+(ROOT (S (NP (@NP (NNS Fruits) (CC and)) (NNS veggies)) (@S (VP (VBP look) (ADJP (RB so) (JJ good))) (. !))))
+(ROOT (FRAG (NP (NP (RB Too) (JJ bad)) (SBAR (S (NP (PRP we)) (VP (@VP (VBD did) (RB n't)) (VP (VB have) (NP (NP (DT a) (NN kitchen)) (PP (IN at) (NP (@NP (NP (PRP$ our) (@NP (NN hotel) (NN room))) (, ,)) (NP (NP (NN cause)) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (VP (@VP (VP (VBN bought)) (CC and)) (VP (@VP (@VP (VBN cooked) (PRT (RP up))) (NP (DT a) (NN storm))) (PP (IN !!)))))))))))))))))))
+
+
+(ROOT (NP (@NP (@NP (NP (NNS lots)) (PP (IN of) (NP (NNS varieties)))) (PP (IN of) (NP (NNS apples)))) (. !)))
+
+
+(ROOT (S (NP (NNS burgers)) (@S (VP (@VP (VBP are) (ADVP (RB very) (NP (JJ big) (NNS portions)))) (ADVP (RB here))) (. .))))
+
+
+(ROOT (S (VP (ADVP (RB definitely)) (@VP (VB order) (NP (NP (DT the) (@NP (NN onion) (@NP (NN ring) (NN tower)))) (PP (TO to) (NP (NN share)))))) (: ...)))
+
+
+(ROOT (S (NP (NNS Milkshakes)) (@S (VP (VBP are) (ADJP (JJ tasty))) (. !))))
+(ROOT (NP (@NP (@NP (NP (PRP$ My) (@NP (JJ personal) (NN favourite))) (: -)) (NP (NP (DT the) (NN vanilla)) (NP (CD one)))) (. .)))
+
+
+(ROOT (S (NP (NNP Food)) (@S (VP (VBZ is) (ADJP (@ADJP (@ADJP (ADJP (RB very) (JJ bland)) (: -)) (ADJP (RB not) (JJ authentic))) (ADVP (IN at) (DT all)))) (. .))))
+
+
+(ROOT (S (VP (VBN meant) (S (VP (TO to) (VP (VB cater) (PP (TO to) (NP (NP (DT the) (NNS customers)) (SBAR (WHNP (WP who)) (S (VP (@VP (VBP have) (ADVP (RB never))) (VP (@VP (VBN eaten) (NP (JJ Vietnamese) (NN food))) (ADVP (RB before)))))))))))) (. .)))
+
+
+(ROOT (FRAG (ADJP (RB Definitely) (SBAR (S (VP (@VP (MD will) (RB not)) (VP (VB be) (VP (VBG returning))))))) (. !)))
+
+
+(ROOT (S (SBAR (IN While) (S (VP (VBG looking) (PP (IN at) (NP (JJ different) (NNS restaurants)))))) (@S (VP (@VP (VP (PP (IN in) (NP (DT the) (NN area))) (@VP (, ,) (@VP (@VP (VP (VBD came) (PP (IN upon) (NP (NP (DT this) (NN restaurant)) (VP (VBG posting))))) (CC and)) (VP (VBD decided) (S (VP (TO to) (VP (VB try) (NP (PRP it))))))))) (, ,)) (SBAR (IN as) (S (NP (PRP it)) (VP (@VP (VBZ is) (ADVP (IN down) (NP (DT the) (NN street)))) (PP (IN from) (NP (NN work))))))) (. .))))
+
+
+(ROOT (FRAG (ADJP (RB Not) (JJ bad)) (@FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (@VP (VBP want) (NP (NP (NN something)) (ADJP (RB slightly) (JJR cheaper)))) (PP (IN than) (NP (NNP Congee) (NNP Star)))))) (. .))))
+(ROOT (S (NP (PRP It)) (@S (VP (VBZ is) (NP (@NP (@NP (NP (DT a) (NN mix)) (PP (IN of) (NP (@NP (NP (JJ chinese)) (CC and)) (NP (NN choy))))) (ADVP (RB suey))) (NP (NN menu)))) (. .))))
+
+
+

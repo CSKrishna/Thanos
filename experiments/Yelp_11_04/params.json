@@ -1,0 +1,19 @@
+{
+    "model_version": "THANOS",
+    "bidirectional": false,
+    "GRU_num_units": 300,
+    "embedding_size": 300,  
+    "l2_reg": false,
+    "l2_lambda": 1e-8,       
+
+    "learning_rate":  9e-4,
+    "batch_size": 32,
+    "num_epochs": 15,
+    "layer_dropout": 0.1,
+    "recurrent_dropout": 0.1,
+    "word_dropout": 0.1,
+
+    "save_every": 500,
+    "dev_every": 500,
+    "log_every": 100
+}

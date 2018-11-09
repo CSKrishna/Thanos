@@ -1,0 +1,8 @@
+{
+    "pad_word": "<pad>",
+    "train_size": 111807,
+    "dev_size": 14559,
+    "vocab_size": 29334,
+    "num_oov_buckets": 1,
+    "test_size": 14558
+}
